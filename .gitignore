@@ -1,0 +1,6 @@
+Arduino/build/*
+!/Arduino/build/main.ino.hex
+!/Arduino/build/main.ino.with_bootloader.hex
+.vscode/c_cpp_properties.json
+Proteus/main/*
+!/Proteus/main/Main.pdsprj

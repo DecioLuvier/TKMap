@@ -1,0 +1,5 @@
+{
+    "sketch": "Arduino\\main\\main.ino",
+    "output": "Arduino/build",
+    "board": "arduino:avr:megaADK"
+}
