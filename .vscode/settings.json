@@ -1,5 +1,5 @@
 {
     "editor.defaultFormatter": "ms-vscode.cpptools",
     "editor.formatOnSave": true,
-    "C_Cpp.clang_format_style": "{IndentWidth: 4, AccessModifierOffset: -2, AlwaysBreakTemplateDeclarations: Yes, BreakBeforeBraces: Custom, BraceWrapping: {BeforeElse: true},SeparateDefinitionBlocks: Always,KeepEmptyLinesAtTheStartOfBlocks: false, AllowShortFunctionsOnASingleLine: None, AllowShortCaseLabelsOnASingleLine: true,  IndentCaseLabels: true}"
+    "C_Cpp.clang_format_style": "{ IndentAccessModifiers: true, AlwaysBreakTemplateDeclarations: Yes, BreakBeforeBraces: Custom, BraceWrapping: {BeforeElse: true},SeparateDefinitionBlocks: Always,KeepEmptyLinesAtTheStartOfBlocks: false, AllowShortFunctionsOnASingleLine: None, AllowShortCaseLabelsOnASingleLine: true,  IndentCaseLabels: true}"
 }
