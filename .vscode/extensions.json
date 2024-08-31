@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "vsciot-vscode.vscode-arduino",
-        "streetsidesoftware.code-spell-checker"
+        "vscode-arduino.vscode-arduino-community"
     ],   
 }
