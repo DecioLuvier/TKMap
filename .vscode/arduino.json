@@ -1,5 +1,8 @@
 {
     "sketch": "Arduino\\main\\main.ino",
     "output": "Arduino/build",
-    "board": "arduino:avr:megaADK"
+    "board": "arduino:avr:megaADK",
+    "buildPreferences": [
+        ["compiler.warning_flags.none", "-Wall -Wextra -Werror"]
+    ]
 }
