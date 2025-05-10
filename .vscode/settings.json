@@ -1,8 +1,8 @@
 {
     "editor.defaultFormatter": "ms-vscode.cpptools",
     "editor.formatOnSave": true,
-    "C_Cpp.clang_format_style": "{ColumnLimit: 200, SortIncludes: false, FixNamespaceComments: false, BinPackParameters: false, IndentAccessModifiers: true, AlwaysBreakTemplateDeclarations: Yes, BreakBeforeBraces: Custom, BraceWrapping: {BeforeElse: true},SeparateDefinitionBlocks: Always,KeepEmptyLinesAtTheStartOfBlocks: false, AllowShortFunctionsOnASingleLine: None, AllowShortCaseLabelsOnASingleLine: true,  IndentCaseLabels: true}",
-    "cSpell.words": [
-        "Adafruit"
-    ],
+    "C_Cpp.clang_format_style": "{ColumnLimit: 140, SortIncludes: false, FixNamespaceComments: false, BinPackParameters: false, EmptyLineBeforeAccessModifier: Never, IndentAccessModifiers: true, AlwaysBreakTemplateDeclarations: Yes, BreakBeforeBraces: Custom, BraceWrapping: {BeforeElse: true},KeepEmptyLinesAtTheStartOfBlocks: false, AllowShortFunctionsOnASingleLine: None, AllowShortCaseLabelsOnASingleLine: false,  IndentCaseLabels: true}",
+    "arduino.clearOutputOnBuild": true,
+    "arduino.useArduinoCli": true,
+    "arduino.path": "C:\\Arduino",
 }
